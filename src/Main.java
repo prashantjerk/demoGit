@@ -12,6 +12,7 @@ public class Main {
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("This is the change that I made in this.");
+            System.out.println("This is the change I made from my laptop.");
         }
     }
 }
